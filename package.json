@@ -34,7 +34,8 @@
 	},
 	"dependencies": {
 		"@astrojs/rss": "2.4.3",
-		"astro": "2.10.1"
+		"astro": "2.10.1",
+		"webpack": "^5.88.2"
 	},
 	"devDependencies": {
 		"@astrojs/mdx": "0.19.7",
